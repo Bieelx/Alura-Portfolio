@@ -13,7 +13,8 @@ Portfolio feito com a ajuda dos cursos HTML e CSS: ambientes de desenvolvimento,
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
--CSS
+- CSS
+
 
 ## 💻 Projeto
 Monte um portfolio.
